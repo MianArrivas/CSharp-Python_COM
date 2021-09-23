@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\bin\Debug\Python JSON Communication.exe
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\bin\Debug\Python JSON Communication.pdb
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\obj\Debug\Python JSON Communication.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\obj\Debug\Python_JSON_Communication.Frm_Main.resources
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\obj\Debug\Python_JSON_Communication.Properties.Resources.resources
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\obj\Debug\Python JSON Communication.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\obj\Debug\Python JSON Communication.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\obj\Debug\Python JSON Communication.csproj.CopyComplete
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\obj\Debug\Python JSON Communication.exe
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\obj\Debug\Python JSON Communication.pdb
+C:\Users\TOSHIBA\Documents\Proyectos\Practicas\Visual Studio\C# Python JSON Communication\Python JSON Communication\Python JSON Communication\bin\Debug\Python JSON Communication.exe.config
